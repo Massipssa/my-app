@@ -1,0 +1,33 @@
+[submodule "etl-service"]
+	path = etl-service
+	url = git@github.com:Massipssa/etl-service.git
+[submodule "hystrix-dashbord"]
+	path = hystrix-dashbord
+	url = git@github.com:Massipssa/hystrix-dashbord.git
+[submodule "gui"]
+	path = gui
+	url = git@github.com:Massipssa/gui.git
+[submodule "datasource-service"]
+	path = datasource-service
+	url = git@github.com:Massipssa/datasource-service.git
+[submodule "my-app-docs"]
+	path = my-app-docs
+	url = git@github.com:Massipssa/my-app-docs.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:Massipssa/auth-service.git
+[submodule "workspace-service"]
+	path = workspace-service
+	url = git@github.com:Massipssa/workspace-service.git
+[submodule "cloud-config-server"]
+	path = cloud-config-server
+	url = git@github.com:Massipssa/cloud-config-server.git
+[submodule "service-registry"]
+	path = service-registry
+	url = git@github.com:Massipssa/service-registry.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = git@github.com:Massipssa/gateway-service.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:Massipssa/config-server.git
